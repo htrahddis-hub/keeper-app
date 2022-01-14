@@ -1,4 +1,4 @@
-### Open [this](https://mz8rc.csb.app/) to view it in the browser.
+### Open [this](https://note-keeperapp.netlify.app/) to view it in the browser.
 
 
 # Getting Started with Create React App
